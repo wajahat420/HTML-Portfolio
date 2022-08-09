@@ -1938,10 +1938,10 @@ input::-moz-focus-inner {
 }
 
 .intro-pic {
-  background-color: #02182c;
+  /* background-color: #02182c; */
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(../images/DP.jpg);
+  background-image: url(../images/DP.png);
   background-size: cover;
   position: absolute;
   top: 20%;
